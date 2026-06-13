@@ -41,7 +41,7 @@
 ### Claude Code
 
 ```bash
-git clone https://github.com/<your-name>/fable-emulation.git
+git clone https://github.com/5umerak/fable-emulation.git
 cp -r fable-emulation/fable-emulation ~/.claude/skills/
 ```
 
